@@ -1,3 +1,9 @@
+molior-tools (1.4.0~alpha13) stretch; urgency=medium
+
+  * bump version 1.4.0~alpha13
+
+ -- André Roth <neolynx@gmail.com>  Sun, 24 Jan 2021 20:23:27 +0100
+
 molior-tools (1.4.0~alpha12) stretch; urgency=medium
 
   * bump version 1.4.0~alpha12
