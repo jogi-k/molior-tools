@@ -1,3 +1,11 @@
+molior-tools (1.4.1~rc10.bullseye) stretch; urgency=medium
+
+  * add bootloader mangle hook
+  * fix boot on vbox efi machines
+  * add molior-build-upload script
+
+ -- André Roth <neolynx@gmail.com>  Sat, 13 Nov 2021 22:30:50 +0000
+
 molior-tools (1.4.1~rc10) stretch; urgency=medium
 
   * bump version 1.4.1~rc10
